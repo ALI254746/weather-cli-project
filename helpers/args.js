@@ -21,4 +21,4 @@ const getArgs=args=>{
     return res;
     // console.log(process.argv)
 }
-module.export=getArgs;
+export default getArgs;
